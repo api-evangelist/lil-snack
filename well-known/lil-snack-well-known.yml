@@ -1,0 +1,26 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.lilsnack.com/
+host: https://www.lilsnack.com
+notes: >-
+  All five standard /.well-known probes returned 404. Lil Snack publishes no
+  security.txt, no OpenID/OAuth discovery documents, no API catalog, and no
+  AI plugin manifest. Recorded as a negative result — nothing was fabricated.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+other:
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 200
+- path: /sitemap.xml
+  status: 200

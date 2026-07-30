@@ -1,0 +1,33 @@
+# Lil Snack
+
+> Lil Snack is a Manhattan Beach, California games company (founded 2024) that builds "snackable" daily games and party games — short pop-culture puzzle, word, and trivia titles that refresh every day. It operates its own consumer destination at lilsnack.com and also powers games embedded inside partner consumer platforms. Lil Snack publishes no public developer API, SDKs, or documentation portal; partner integrations are arranged through business development.
+
+## Games
+- [Clue Daily](https://www.lilsnack.com/game/clue): Daily Clue-branded deduction puzzle.
+- [Scattergories Daily](https://www.lilsnack.com/game/scattergories): Daily Scattergories, built with Hasbro.
+- [Swap](https://www.lilsnack.com/game/swap): Daily tile-swapping word puzzle.
+- [Pickle](https://www.lilsnack.com/game/pickle): Daily pop-culture puzzle.
+- [All Games](https://www.lilsnack.com/): Full daily lineup, including DownWords, Lite Brite Daily, Wheel of Fortune TODAY, Quiz Climb, Venn, Chain, Stacked, WHAT THE?, Putt Putt Problems, and Quoted.
+
+## Company
+- [Website](https://www.lilsnack.com/)
+- [About Us](https://www.lilsnack.com/company): Company overview, partners, and reported reach (40M+ games played, 10M+ players).
+- [News](https://www.lilsnack.com/news): Game launches, monthly collectible events, and partnership announcements.
+- [Jobs](https://www.lilsnack.com/company/jobs)
+- [Partnership Inquiries](https://www.lilsnack.com/reach-out): The route for platforms and brands wanting Lil Snack games — there is no self-serve API.
+- [Send Feedback](https://www.lilsnack.com/feedback)
+
+## Partners
+Lil Snack cites BuzzFeed, FOX, Hasbro, the Los Angeles Times, Netflix, Peacock, Prime Gaming, Reddit, and Sony as consumer platforms and brands it works with.
+
+## Community
+- [Discord](https://discord.gg/FXvKvPUnr3)
+- [LinkedIn](https://www.linkedin.com/company/lil-snack/)
+- [X / Twitter](https://twitter.com/lilsnackdaily)
+
+## Legal
+- [Terms of Use](https://www.lilsnack.com/terms-of-use)
+- [Privacy Policy](https://www.lilsnack.com/privacy-policy)
+
+## Developer Surface
+- None published. As of 2026-07-19 there is no public API, no documentation portal, no SDK or package registry presence, no public GitHub organization, and no /.well-known discovery documents. The site's /api/ path is disallowed in robots.txt and serves the internal Next.js application only.
