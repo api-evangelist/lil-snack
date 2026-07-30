@@ -1,22 +1,97 @@
 aid: lil-snack
 name: Lil Snack
-description: Lil Snack is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Lil Snack is a Manhattan Beach, California games company, founded in 2024, that
+  builds "snackable" daily games and party games — short pop-culture puzzle,
+  word, and trivia titles that refresh every day. It runs its own consumer
+  destination at lilsnack.com (Clue Daily, Scattergories Daily, Swap, DownWords,
+  Pickle, Lite Brite Daily, Wheel of Fortune TODAY, Quiz Climb, Venn, Chain, and
+  more) and also powers games embedded inside partner consumer platforms,
+  citing BuzzFeed, FOX, Hasbro, the Los Angeles Times, Netflix, Peacock, Prime
+  Gaming, Reddit, and Sony. The company reports 40M+ games played and 10M+
+  players all-time, and monetizes through platform partnerships, sponsorships,
+  and brand licensing. As of this profile Lil Snack publishes NO public
+  developer surface — no API, no documentation portal, no SDKs, no public GitHub
+  organization, and no /.well-known documents; its partner game integrations are
+  arranged through business development rather than self-serve APIs. This
+  API Evangelist profile therefore captures verified company identity, web
+  properties, and probed domain-security posture only.
 url: https://raw.githubusercontent.com/api-evangelist/lil-snack/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.lilsnack.com/lil-snack-og-image-v2.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
+- lerer-hippeau
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-public-api-surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Games
+- Gaming
+- Daily Games
+- Puzzles
+- Word Games
+- Trivia
+- Casual Games
+- Media
+- Entertainment
+- Pop Culture
+- Consumer
+- Embedded Games
+- Advertising
+- Sponsorship
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://www.lilsnack.com/
+- type: About
+  url: https://www.lilsnack.com/company
+- type: Blog
+  url: https://www.lilsnack.com/news
+- type: Support
+  url: https://www.lilsnack.com/feedback
+- type: Contact
+  url: https://www.lilsnack.com/reach-out
+- type: Careers
+  url: https://www.lilsnack.com/company/jobs
+- type: TermsOfService
+  url: https://www.lilsnack.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.lilsnack.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/lil-snack/
+- type: Discord
+  url: https://discord.gg/FXvKvPUnr3
+- type: Twitter
+  url: https://twitter.com/lilsnackdaily
+- type: WellKnown
+  url: well-known/lil-snack-well-known.yml
+- type: DomainSecurity
+  url: security/lil-snack-domain-security.yml
+- type: LLMsTxt
+  url: llms/lil-snack-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
