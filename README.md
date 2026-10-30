@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lil Snack is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Lil Snack is a Manhattan Beach, California games company, founded in 2024, that builds "snackable" daily games and party games — short pop-culture puzzle, word, and trivia titles that refresh every day. It runs its own consumer destination at lilsnack.com (Clue Daily, Scattergories Daily, Swap, DownWords, Pickle, Lite Brite Daily, Wheel of Fortune TODAY, Quiz Climb, Venn, Chain, and more) and also powers games embedded inside partner consumer platforms, citing BuzzFeed, FOX, Hasbro, the Los Angeles Times, Netflix, Peacock, Prime Gaming, Reddit, and Sony. The company reports 40M+ games played and 10M+ players all-time, and monetizes through platform partnerships, sponsorships, and brand licensing. As of this profile Lil Snack publishes NO public developer surface — no API, no documentation portal, no SDKs, no public GitHub organization, and no /.well-known documents; its partner game integrations are arranged through business development rather than self-serve APIs. This API Evangelist profile therefore captures verified company identity, web properties, and probed domain-security posture only.
 
-Backed by: a16z
+**Areas:** Company · Games · Gaming · Daily Games · Puzzles · Word Games · Trivia · Casual Games · Media · Entertainment · Pop Culture · Consumer
+
+## Lil Snack on APIs.io
+
+Everything profiled for Lil Snack is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lil-snack/](https://apis.io/providers/lil-snack/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lil Snack Domain Security](https://apis.io/security/lil-snack/lil-snack-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lilsnack.com/)
+- [Support](https://www.lilsnack.com/feedback)
+- [Blog](https://www.lilsnack.com/news)
+- [Terms of service](https://www.lilsnack.com/terms-of-use)
+- [Privacy policy](https://www.lilsnack.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lil-snack/](https://apis.io/providers/lil-snack/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lil Snack: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lil-snack/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
